@@ -1,4 +1,4 @@
-//Bit stuffing
+//Endianess of the system
 #include<stdio.h>
 int main()
 {
